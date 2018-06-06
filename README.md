@@ -1,6 +1,45 @@
-frontend-nanodegree-arcade-game
-===============================
+##Arcade-Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## About The Game:
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+This game is built as part of the required projects to fulfill the Udacity front end web development track . The purpose of the project is to utilized and demonstrate the mastery of object oriented concepts studied.
+
+## How To Load The game.
+
+Clone this repo and open the index.html to start the game as shown below;
+
+
+<img src="images/arcadeGame.png" alt="">
+
+
+or 
+
+You can play the game by pointing your browser to this [link]( https://dagbanbia.github.io/arcadeGame/)
+
+
+## How To Play The game
+
+This game is the basic requirement which was implemented.So steps to play is the requirement given by udacity.
+
+1. The objective is for the player to reach to the top of the water.
+2. use the arrow keys namely, left,right, up and down to move the player.
+3. the player must avoid the enemies if he is to reach the water by using the arrow keys.
+4. when the enemy collide with the player, the player comes back to where he started .
+5. When he reach the water, the Game start again by the player moving back to his original starting place
+
+NB; There is updatement to the game but due to timing factor, it will come later
+
+
+
+
+
+## Required Dependencies
+
+Ideally any modern browsers should be enough to open and play the game.
+
+
+## Contributing
+
+This repository is the complete code for my udacity memory Game project. I am very open for any suggestion that will improve the game.Because, I believe is part of the  learning procedure. Therefore, I am willing to  accept any pull requests to improve the game.
+
+For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
